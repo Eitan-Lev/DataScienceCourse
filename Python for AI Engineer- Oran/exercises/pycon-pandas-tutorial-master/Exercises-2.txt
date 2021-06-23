@@ -1,0 +1,25 @@
+Required Exercises:
+
+What are the ten most common movie names of all time?
+Which three years of the 1930s saw the most films released?
+Plot the number of films that have been released each decade over the history of cinema. ### .plot(kind='bar')
+Plot the number of "Hamlet" films made each decade. ### .plot(kind='bar')
+What are the 11 most common character names in movie history?
+Who are the 10 people most often credited as "Himself" in film history?
+Plot how many roles Mammootty has played in each year of his career. ### .plot()
+Plot the n-values of the roles that Judi Dench has played over her career. ### c.plot(x='year', y='n', kind='scatter')
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

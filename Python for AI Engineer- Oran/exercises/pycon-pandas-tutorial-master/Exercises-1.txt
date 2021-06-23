@@ -1,0 +1,15 @@
+Required Exercises:
+How many movies are listed in the titles dataframe?
+What are the earliest two films listed in the titles dataframe?
+How many movies have the title "Hamlet"?When was the first movie titled "Hamlet" made?
+When was the first movie titled "Hamlet" made?
+List all of the "Treasure Island" movies from earliest to most recent.
+How many movies were made in the year 1950?
+How many movies were made from 1950 through 1959?
+Display the cast of "North by Northwest" in their correct "n"-value order, ignoring roles that did not earn a numeric "n" value.
+List the leading roles that Cary Grant played in the 1940s in order by year.
+
+6-11
+13
+19
+31

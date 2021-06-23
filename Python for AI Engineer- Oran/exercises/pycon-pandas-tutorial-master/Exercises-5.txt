@@ -1,0 +1,19 @@
+Required Exercises:
+
+Make a bar plot of the months in which movies with "Christmas" in their title tend to be released in the USA.
+Make a bar plot of the day of the week on which movies with "Action" in their title tend to be released in the USA.
+In which months do films with Tom Cruise tend to be released in the USA?
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,5 @@
+Required Exercises:
+
+Using groupby(), plot the number of films that have been released each decade in the history of cinema.
+How many leading (n=1) roles were available to actors, and how many to actresses, in each year of the 1950s?
+List, in order by year, each of the films in which Frank Oz has played more than 1 role.

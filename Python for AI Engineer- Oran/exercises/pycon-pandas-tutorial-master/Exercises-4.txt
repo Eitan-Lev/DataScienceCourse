@@ -1,0 +1,8 @@
+Required Exercises:
+
+Define a year as a "Superman year" whose films feature more Superman characters than Batman. How many years in film history have been Superman years? ### c.plot()
+
+Plot the number of actor roles each year and the number of actress roles each year, but this time as a kind='area' plot. ### c.plot(kind='area')
+
+Plot the fraction of roles that have been 'actor' roles each year in the history of film.
+
